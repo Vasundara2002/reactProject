@@ -1,0 +1,27 @@
+.customStyle{
+    text-align: center;
+    align-items: center;
+}
+.iconStyle{
+    align-items: center;
+    width: fit-content;
+    padding: 10px;
+}
+.limitStyle{
+    
+    padding: 10px;
+    background-color: #8a93a2;
+}
+.lin{
+    text-decoration: none;
+}
+
+.content{
+    width: 100%;
+    /* width: max-content; */
+    align-self: center;
+}
+
+.vcde{
+    text-align: left;
+}
